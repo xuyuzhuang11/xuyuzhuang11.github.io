@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Master's student at Tsinghua University, majoring in Computer Science and Technology under the guidance of Prof. Weidong Liu and Prof. <a href='https://nlp.csai.tsinghua.edu.cn/~ly/index_cn.html'>Yang Liu</a>. Before this, I graduated from the National University of Defense Technology in 2015 with a Bachelor's degree in Engineering. Afterward, I served in the military for several years before retiring. In September this year (2024), I will join the Harbin Institute of Technology to pursue a Ph.D. in Computer Science and Technology supervised by Prof. <a href='http://ir.hit.edu.cn/~car/'>Wanxiang Che</a>.
+I am currently a final-year Master's student at Tsinghua University, majoring in Computer Science and Technology under the guidance of Prof. Weidong Liu and Prof. <a href='https://nlp.csai.tsinghua.edu.cn/~ly/index_cn.html'>Yang Liu</a>. Before this, I graduated from the National University of Defense Technology in 2015 with a Bachelor's degree in Engineering. Afterward, I worked in a Chinese government department for a while before resigning (in 2020). In September this year (2024), I will join the Harbin Institute of Technology to pursue a Ph.D. in Computer Science and Technology supervised by Prof. <a href='http://ir.hit.edu.cn/~car/'>Wanxiang Che</a>.
 
 My current research interests are efficient Large Language Models (LLMs), LLM-based agents, and multilingual processing. I am very keen to connect with other friends in the research community to exchange and discuss ideas.
 
@@ -49,12 +49,13 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - Future*, Harbin Institute of Technology, Harbin, China, Doctor candidate, Computer science and technology.
+- *2021.09 - 2024.06 (now)*, Tsinghua University, Beijing, China, Master, Computer science and technology. 
+- *2011.09 - 2015.06*, National University of Defense Technology, Changsha, China, Undergraduate, Command and Automation. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.03*, Exploration and Innovation in Extreme Quantization Methods for Large Language Models, Jiqizhixin, Online.
+- *2024.03*, The Era of LLM-based Agents: Ability, Methodology and Future, Swarma Club, Online.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.01 - 2022.07*, Chinese Academy of Sciences, Institute of Software, Beijing, China.
