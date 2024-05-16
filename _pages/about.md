@@ -43,7 +43,7 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_imgs/ultra_link.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper_imgs/ultra_link.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:d1gkVwhDpl0C)
