@@ -102,8 +102,8 @@ Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, **Yuzhuang Xu**, Zheng
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2024.09 - Future*, Harbin Institute of Technology, Harbin, China, Doctor candidate, Computer science and technology.
-- *2021.09 - 2024.06 (now)*, Tsinghua University, Beijing, China, Master, Computer science and technology. 
+- *2024.09 - Future*, Harbin Institute of Technology, Harbin, China, Doctor student, Computer science and technology.
+- *2021.09 - 2024.06*, Tsinghua University, Beijing, China, Master, Computer science and technology. 
 - *2011.09 - 2015.06*, National University of Defense Technology, Changsha, China, Undergraduate, Command and Automation. 
 
 # 💬 Invited Talks
