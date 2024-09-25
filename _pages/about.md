@@ -25,12 +25,13 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 OneBit is accepted by NeurIPS 2024.
 - *2024.02*: &nbsp;🎉🎉 We are the first to attempt 1-bit quantization of LLMs, achieving 90% model compression while retaining 83% of the performance (on LLaMA series). This work is featured by AK(<a href='https://twitter.com/_akhaliq/status/1759816467602665626'>@_akhaliq</a>).
 - *2023.09*: &nbsp;🎉🎉 We explore playing Werewolf Game using LLMs. Some strategic and social behaviors emerged, such as trust, confrontation, etc.
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_imgs/onebit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_imgs/onebit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OneBit: Towards Extremely Low-bit Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:9yKSN-GCB0IC)
