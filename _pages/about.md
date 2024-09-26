@@ -57,7 +57,7 @@ Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_imgs/Delta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_imgs/Delta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models](https://arxiv.org/abs/2406.08903)
