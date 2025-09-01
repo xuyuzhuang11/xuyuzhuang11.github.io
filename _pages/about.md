@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Doctor student at Harbin Institute of Technology (HIT), majoring in Computer Science and Technology under the guidance of Prof. <a href='https://chewanxiang.com/'>Wanxiang Che</a>. Before this, I graduated from Tsinghua University (THU) in 2024 with a Master's degree in computer science, supervised by Prof. <a href='https://nlp.csai.tsinghua.edu.cn/~ly/index_cn.html'>Yang Liu</a> and Prof. Weidong Liu. I also closely worked with Prof. <a href='https://lpeng.net/'>Peng Li</a> and <a href='https://scholar.google.com/citations?user=5vm5yAMAAAAJ&hl=zh-CN'>Shuo Wang</a> when I was in Tsinghua University. Several years ago, I graduated from the National University of Defense Technology (NUDT) in 2015 with a Bachelor's degree in Engineering. Afterward, I worked in a Chinese government department for a while before resigning (in 2020).
+I am currently a second-year Doctor Candidate at Harbin Institute of Technology (HIT), majoring in Computer Science and Technology under the guidance of Prof. <a href='https://chewanxiang.com/'>Wanxiang Che</a>. Before this, I graduated from Tsinghua University (THU) in 2024 with a Master's degree in computer science, supervised by Prof. <a href='https://nlp.csai.tsinghua.edu.cn/~ly/index_cn.html'>Yang Liu</a> and Prof. Weidong Liu. I also closely worked with Prof. <a href='https://lpeng.net/'>Peng Li</a> and <a href='https://scholar.google.com/citations?user=5vm5yAMAAAAJ&hl=zh-CN'>Shuo Wang</a> when I was in Tsinghua University. Several years ago, I graduated from the National University of Defense Technology (NUDT) in 2015 with a Bachelor's degree in Engineering. Afterward, I worked in a Chinese government department for a while before resigning (in 2020).
 
 My current research interests are efficient Large Language Models (LLMs), LLM-based agents, and multilingual processing. I am very keen to connect with other friends in the research community to exchange and discuss ideas.
 
@@ -141,3 +141,7 @@ Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, **Yuzhuang Xu**, Zheng
 # 💻 Internships
 - *2023.08 - 2024.08*, National Laboratory, Beijing, China.
 - *2022.01 - 2022.07*, Chinese Academy of Sciences, Institute of Software, Beijing, China.
+
+# 💻 Services
+- Reviewer-Conference: ACL RR 2024, ACL RR 2025, NeurIPS 2025
+- Reviewer-Journal: TPAMI, FCS, Neurocomputing
