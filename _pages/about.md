@@ -36,96 +36,66 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
   - In ***Advances in Neural Information Processing Systems (NeurIPS 2024)***
   - Keywords: Onebit, Extreme Quantization, 1-bit Quantization
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_imgs/onebit.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:u-x6o8ySG0sC)
+  - **Yuzhuang Xu**, Shuo Wang, Peng Li, Fuwen Luo, Xiaolong Wang, Weidong Liu, Yang Liu
+  - ***ArXiv Technical Report***
+  - Keywords: Werewolf, LLM for Games, Social Behaviors
 
-[OneBit: Towards Extremely Low-bit Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:9yKSN-GCB0IC)
+- [CAMERA: Multi-Matrix Joint Compression for MoE Models via Micro-Expert Redundancy Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:YsMSGLbcyi4C)
+  - **Yuzhuang Xu**, Xu Han, Yuanchi Zhang, Yixuan Wang, Yijun Liu, Shiyu Ji, Qingfu Zhu, Wanxiang Che
+  - In ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026)***
+  - Keywords: Micro-expert, Pruning, Quantization, MoE
 
-**Yuzhuang Xu**, Xu Han, Zonghan Yang, Shuo Wang, Qingfu Zhu, Zhiyuan Liu, Weidong Liu, Wanxiang Che
+- [CRVQ: Channel-relaxed Vector Quantization for Extreme Compression of LLMs](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:zYLM7Y9cAGgC)
+  - **Yuzhuang Xu**, Shiyu Ji, Qingfu Zhu, Wanxiang Che
+  - In ***Transactions of the Association for Computational Linguistics (TACL 2025), EMNLP 2025***
+  - Keywords: Extreme Compression, Codebook, Hardware-friendly
 
-📃[**Paper**](https://arxiv.org/abs/2402.11295)    🛠[**Code**](https://github.com/xuyuzhuang11/OneBit)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Model quantification uses low bit-width values to represent the weight matrices of models, which is a promising approach to reduce both storage and computational overheads of deploying highly anticipated LLMs. However, existing quantization methods suffer severe performance degradation when the bit-width is extremely reduced, and thus focus on utilizing 4-bit or 8-bit values to quantize models. This paper boldly quantizes the weight matrices of LLMs to 1-bit, paving the way for the extremely low bit-width deployment of LLMs. For this target, we introduce a 1-bit quantization-aware training (QAT) framework named OneBit, including a novel 1-bit parameter representation method to better quantize LLMs as well as an effective parameter initialization method based on matrix decomposition to improve the convergence speed of the QAT framework. Sufficient experimental results indicate that OneBit achieves good performance (at least 83% of the non-quantized performance) with robust training processes when only using 1-bit weight matrices.
-</div>
-</div>
+- [Pluggable Neural Machine Translation Models via Memory-augmented Adapters](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:UeHWp8X0CEIC)
+  - **Yuzhuang Xu**, Shuo Wang, Peng Li, Xuebo Liu, Xiaolong Wang, Weidong Liu, Yang Liu
+  - In ***Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)***
+  - Keywords: Machine Translation, Plugin, Style Translation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_imgs/multilingual_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:2osOgNQ5qMEC)
+  - Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, **Yuzhuang Xu**, Jinan Xu, Jian-Yun Nie, Yang Liu
+  - ***ArXiv Preprint***
+  - Keywords: Survey, Multilingualism, Machine Translation
 
-[A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:2osOgNQ5qMEC)
+- [Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:qjMakFHDy7sC)
+  - Bowen Ping, Shuo Wang, Hanqing Wang, Xu Han, **Yuzhuang Xu**, Yukun Yan, Yun Chen, Baobao Chang, Zhiyuan Liu, Maosong Sun
+  - In ***Advances in Neural Information Processing Systems (NeurIPS 2024)***
+  - Keywords: Delta-compression, Training-free, Mixed-precision
 
-Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, **Yuzhuang Xu**, Jinan Xu, Jian-Yun Nie, Yang Liu
+- [Judge Q: Trainable Queries for Optimized Information Retention in KV Cache Eviction](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:eQOLeE2rZwMC)
+  - Yijun Liu, Yixuan Wang, **Yuzhuang Xu**, Shiyu Ji, Yang Xu, Qingfu Zhu, Wanxiang Che
+  - In ***Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026)***
+  - Keywords: KV Eviction, Trainable Query, KV Compression
 
-📃[**Paper**](https://arxiv.org/pdf/2405.10936)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- The rapid development of Large Language Models (LLMs) demonstrates remarkable multilingual capabilities in natural language processing, attracting global attention in both academia and industry. To mitigate potential discrimination and enhance the overall usability and accessibility for diverse language user groups, it is important for the development of language-fair technology. Despite the breakthroughs of LLMs, the investigation into the multilingual scenario remains insufficient, where a comprehensive survey to summarize recent approaches, developments, limitations, and potential solutions is desirable. To this end, we provide a survey with multiple perspectives on the utilization of LLMs in the multilingual scenario. We first rethink the transitions between previous and current research on pre-trained language models. Then we introduce several perspectives on the multilingualism of LLMs, including training and inference methods, model security, multi-domain with language culture, and usage of datasets. We also discuss the major challenges that arise in these aspects, along with possible solutions. Besides, we highlight future research directions that aim at further enhancing LLMs with multilingualism. The survey aims to help the research community address multilingual problems and provide a comprehensive understanding of the core concepts, key techniques, and latest developments in multilingual natural language processing based on LLMs.
-</div>
-</div>
+- [ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:IjCSPb-OGe4C)
+  - Ziyue Wang, Chi Chen, Fuwen Luo, Yurui Dong, Yuanchi Zhang, **Yuzhuang Xu**, Xiaolong Wang, Peng Li, Yang Liu
+  - In ***Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL 2025)***
+  - Keywords: Active Perception, Visual Question Answering, Benchmark
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_imgs/Delta.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:d1gkVwhDpl0C)
+  - Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, **Yuzhuang Xu**, Zhenghao Liu, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun
+  - In ***Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL 2024)***
+  - Keywords: Multilingual, Dataset, Knowledge-Enhanced
 
-[Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models](https://arxiv.org/abs/2406.08903)
+- [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:Y0pCki6q_DkC)
+  - Yixuan Wang, Shiyu Ji, Yijun Liu, **Yuzhuang Xu**, Yang Xu, Qingfu Zhu, Wanxiang Che
+  - In ***Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)***
+  - Keywords: KV Eviction, Pseudo Query, Lookahead
 
-Bowen Ping, Shuo Wang, Hanqing Wang, Xu Han, **Yuzhuang Xu**, Yukun Yan, Yun Chen, Baobao Chang, Zhiyuan Liu, Maosong Sun
+- [Perspective Transition of Large Language Models for Solving Subjective Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:Tyk-4Ss8FVUC)
+  - Xiaolong Wang, Yuanchi Zhang, Ziyue Wang, **Yuzhuang Xu**, Fuwen Luo, Yile Wang, Peng Li, Yang Liu
+  - In ***Findings of the Association for Computational Linguistics: ACL 2025***
+  - Keywords: Perspective Transition, Subjective Tasks, Multi-Agent
 
-📃[**Paper**](https://arxiv.org/abs/2406.08903)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Fine-tuning is a crucial process for adapting large language models (LLMs) to diverse applications. In certain scenarios, such as multi-tenant serving, deploying multiple LLMs becomes necessary to meet complex demands. Recent studies suggest decomposing a fine-tuned LLM into a base model and corresponding delta weights, which are then compressed using low-rank or low-bit approaches to reduce costs. In this work, we observe that existing low-rank and low-bit compression methods can significantly harm the model performance for task-specific fine-tuned LLMs (e.g., WizardMath for math problems). Motivated by the long-tail distribution of singular values in the delta weights, we propose a delta quantization approach using mixed-precision. This method employs higher-bit representation for singular vectors corresponding to larger singular values. We evaluate our approach on various fine-tuned LLMs, including math LLMs, code LLMs, chat LLMs, and even VLMs. Experimental results demonstrate that our approach performs comparably to full fine-tuned LLMs, surpassing both low-rank and low-bit baselines by a considerable margin. Additionally, we show that our method is compatible with various backbone LLMs, such as Llama-2, Llama-3, and Mistral, highlighting its generalizability.
-</div>
-</div>
+- [Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:W7OEmFMy1HYC)
+  - Yixuan Wang, Yijun Liu, **Yuzhuang Xu**, Yang Xu, Qingfu Zhu, Wanxiang Che
+  - ***ArXiv Preprint***
+  - Keywords: Speculative Decoding, Semantic Reflective, Relaxed Verification
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_imgs/acti_view.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:IjCSPb-OGe4C)
-
-Ziyue Wang, Chi Chen, Fuwen Luo, Yurui Dong, Yuanchi Zhang, **Yuzhuang Xu**, Xiaolong Wang, Peng Li, Yang Liu
-
-📃[**Paper**](https://arxiv.org/pdf/2410.04659)    🛠[**Code**](https://github.com/THUNLP-MT/ActiView)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Active perception, a crucial human capability, involves setting a goal based on the current understanding of the environment and performing actions to achieve that goal. Despite significant efforts in evaluating Multimodal Large Language Models (MLLMs), active perception has been largely overlooked. To address this gap, we propose a novel benchmark named ActiView to evaluate active perception in MLLMs. Since comprehensively assessing active perception is challenging, we focus on a specialized form of Visual Question Answering (VQA) that eases the evaluation yet challenging for existing MLLMs. Given an image, we restrict the perceptual field of a model, requiring it to actively zoom or shift its perceptual field based on reasoning to answer the question successfully. We conduct extensive evaluation over 27 models, including proprietary and open-source models, and observe that the ability to read and comprehend multiple images simultaneously plays a significant role in enabling active perception. Results reveal a significant gap in the active perception capability of MLLMs, indicating that this area deserves more attention. We hope that our benchmark could help develop methods for MLLMs to understand multimodal inputs in more natural and holistic ways.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper_imgs/ultra_link.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:d1gkVwhDpl0C)
-
-Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, **Yuzhuang Xu**, Zhenghao Liu, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun
-
-📃[**Paper**](https://arxiv.org/abs/2402.04588)    🛠[**Code**](https://github.com/OpenBMB/UltraLink)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Open-source large language models (LLMs) have gained significant strength across diverse fields. Nevertheless, the majority of studies primarily concentrate on English, with only limited exploration into the realm of multilingual supervised fine-tuning. In this work, we therefore construct an open-source multilingual supervised fine-tuning dataset. Different from previous works that simply translate English instructions, we consider both the language-specific and language-agnostic abilities of LLMs. For language-specific abilities, we introduce a knowledge-grounded data augmentation approach to elicit more culture-specific knowledge of LLMs, improving their ability to serve users from different countries. For language-agnostic abilities, we find through experiments that modern LLMs exhibit strong cross-lingual transfer capabilities, thus repeatedly learning identical content in various languages is not necessary. Consequently, we can substantially prune the language-agnostic SFT data without any performance degradation, making the SFT process more efficient. The resulting UltraLink dataset comprises approximately 1 million samples across five languages, and the proposed data construction method can also be easily extended to other languages. UltraLink-LM, which is trained on UltraLink, outperforms several representative baselines across many tasks.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper_imgs/werewolf.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:u-x6o8ySG0sC)
-
-**Yuzhuang Xu**, Shuo Wang, Peng Li, Fuwen Luo, Xiaolong Wang, Weidong Liu, Yang Liu
-
-📃[**Paper**](https://arxiv.org/abs/2309.04658)    🛠[**Code**](https://github.com/xuyuzhuang11/Werewolf)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Communication games, which we refer to as incomplete information games that heavily depend on natural language communication, hold significant research value in fields such as economics, social science, and artificial intelligence. In this work, we explore the problem of how to engage large language models (LLMs) in communication games, and in response, propose a tuning-free framework. Our approach keeps LLMs frozen, and relies on the retrieval and reflection on past communications and experiences for improvement. An empirical study on the representative and widely-studied communication game, "Werewolf", demonstrates that our framework can effectively play Werewolf game without tuning the parameters of the LLMs. More importantly, strategic behaviors begin to emerge in our experiments, suggesting that it will be a fruitful journey to engage LLMs in communication games and associated domains.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/paper_imgs/pluggable_nmt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Pluggable Neural Machine Translation Models via Memory-augmented Adapters](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:u5HHmVD_uO8C)
-
-**Yuzhuang Xu**, Shuo Wang, Peng Li, Xuebo Liu, Xiaolong Wang, Weidong Liu, Yang Liu
-
-📃[**Paper**](https://arxiv.org/abs/2307.06029)    🛠[**Code**](https://github.com/xuyuzhuang11/StyleMT)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Although neural machine translation (NMT) models perform well in the general domain, it remains rather challenging to control their generation behavior to satisfy the requirement of different users. Given the expensive training cost and the data scarcity challenge of learning a new model from scratch for each user requirement, we propose a memory-augmented adapter to steer pretrained NMT models in a pluggable manner. Specifically, we construct a multi-granular memory based on the user-provided text samples and propose a new adapter architecture to combine the model representations and the retrieved results. We also propose a training strategy using memory dropout to reduce spurious dependencies between the NMT model and the memory. We validate our approach on both styleand domain-specific experiments and the results indicate that our method can outperform several representative pluggable baselines.
-</div>
-</div>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -149,4 +119,4 @@ Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, **Yuzhuang Xu**, Zheng
 
 # 💻 Services
 - Reviewer-Conference: ACL RR 2024, ACL RR 2025, NeurIPS 2025
-- Reviewer-Journal: TPAMI, FCS, Neurocomputing
+- Reviewer-Journal: TPAMI, FCS, Neurocomputing, IEEE Games
