@@ -21,7 +21,7 @@ I am currently a second-year Doctor Candidate at Harbin Institute of Technology 
 
 My current research interests are efficient Large Language Models (LLMs), LLM-based agents, and multilingual processing. I am very keen to connect with other friends in the research community to exchange and discuss ideas.
 
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxuyuzhuang11.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 
 # 🔥 News
@@ -109,11 +109,13 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 - *2011.09 - 2015.06*, National University of Defense Technology, Changsha, China, Undergraduate, Command and Automation. 
 
 # 💬 Invited Talks
+- *2025.10*, Compression of LLMs, HUAWEI, Shanghai, China.
 - *2024.07*, Hotpot Paper Oral (OneBit), CCL 2024, Taiyuan, China.
 - *2024.03*, Exploration and Innovation in Extreme Quantization Methods for Large Language Models, Jiqizhixin, Online.
 - *2024.03*, The Era of LLM-based Agents: Ability, Methodology and Future, Swarma Club, Online.
 
 # 💻 Internships
+- *2025.09 - 2026.08*, ModelBest, Beijing, China.
 - *2023.08 - 2024.08*, National Laboratory, Beijing, China.
 - *2022.01 - 2022.07*, Chinese Academy of Sciences, Institute of Software, Beijing, China.
 
