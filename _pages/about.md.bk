@@ -31,11 +31,6 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 
 # 📝 Publications
 
-- [OneBit: Towards Extremely Low-bit Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:9yKSN-GCB0IC)
-  - **Yuzhuang Xu**, Xu Han, Zonghan Yang, Shuo Wang, Qingfu Zhu, Zhiyuan Liu, Weidong Liu, Wanxiang Che
-  - In ***Advances in Neural Information Processing Systems (NeurIPS 2024)***
-  - Keywords: Onebit, Extreme Quantization, 1-bit Quantization
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_imgs/onebit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
