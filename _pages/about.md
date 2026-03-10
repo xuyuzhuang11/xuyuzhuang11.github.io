@@ -58,7 +58,7 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 
 - [A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:2osOgNQ5qMEC)
   - Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, **Yuzhuang Xu**, Jinan Xu, Jian-Yun Nie, Yang Liu
-  - ***ArXiv Preprint***
+  - ***Artificial Intelligence Review 2026***
   - Keywords: Survey, Multilingualism, Machine Translation
 
 - [Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:qjMakFHDy7sC)
@@ -120,5 +120,5 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 - *2022.01 - 2022.07*, Chinese Academy of Sciences, Institute of Software, Beijing, China.
 
 # 💻 Services
-- Reviewer-Conference: ACL RR 2024, ACL RR 2025, NeurIPS 2025
+- Reviewer-Conference: ACL RR 24/25/26, NeurIPS 2025
 - Reviewer-Journal: TPAMI, FCS, Neurocomputing, IEEE Games
