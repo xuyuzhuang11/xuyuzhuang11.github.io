@@ -56,6 +56,11 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
   - In ***Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)***
   - Keywords: Machine Translation, Plugin, Style Translation
 
+- [ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:_FxGoFyzp5QC)
+  - **Yuzhuang Xu**, Xu Han, Yuxuan Li, Wanxiang Che
+  - ***ArXiv Preprint***
+  - Keywords: Inference Framework, Tensor Parallelism, NUMA
+
 - [A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:2osOgNQ5qMEC)
   - Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, **Yuzhuang Xu**, Jinan Xu, Jian-Yun Nie, Yang Liu
   - In ***Artificial Intelligence Review 2026***
