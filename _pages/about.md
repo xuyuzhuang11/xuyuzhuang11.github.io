@@ -96,6 +96,11 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
   - In ***Findings of the Association for Computational Linguistics: ACL 2025***
   - Keywords: Perspective Transition, Subjective Tasks, Multi-Agent
 
+- [HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:roLk4NBRz8UC)
+  - Baocai Shan, **Yuzhuang Xu**, Wanxiang Che
+  - ***ArXiv Preprint***
+  - Keywords: Input Method, LLM, Personalization
+
 - [Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:W7OEmFMy1HYC)
   - Yixuan Wang, Yijun Liu, **Yuzhuang Xu**, Yang Xu, Qingfu Zhu, Wanxiang Che
   - ***ArXiv Preprint***
