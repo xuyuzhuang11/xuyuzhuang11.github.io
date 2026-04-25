@@ -58,13 +58,18 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 
 - [ArcLight: A Lightweight LLM Inference Architecture for Many-Core CPUs](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:_FxGoFyzp5QC)
   - **Yuzhuang Xu**, Xu Han, Yuxuan Li, Wanxiang Che
-  - ***ArXiv Preprint***
+  - In ***Proceedings of the Annual Meeting of the Association for Computational Linguistics: Demonstration (ACL 2026 Demo)***
   - Keywords: Inference Framework, Tensor Parallelism, NUMA
 
 - [A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:2osOgNQ5qMEC)
   - Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, **Yuzhuang Xu**, Jinan Xu, Jian-Yun Nie, Yang Liu
   - In ***Artificial Intelligence Review 2026***
   - Keywords: Survey, Multilingualism, Machine Translation
+
+- [HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:roLk4NBRz8UC)
+  - Baocai Shan, **Yuzhuang Xu**, Wanxiang Che
+  - In ***Proceedings of the Annual Meeting of the Association for Computational Linguistics: Demonstration (ACL 2026 Demo)***
+  - Keywords: Input Method, LLM, Personalization
 
 - [Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:qjMakFHDy7sC)
   - Bowen Ping, Shuo Wang, Hanqing Wang, Xu Han, **Yuzhuang Xu**, Yukun Yan, Yun Chen, Baobao Chang, Zhiyuan Liu, Maosong Sun
@@ -95,11 +100,6 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
   - Xiaolong Wang, Yuanchi Zhang, Ziyue Wang, **Yuzhuang Xu**, Fuwen Luo, Yile Wang, Peng Li, Yang Liu
   - In ***Findings of the Association for Computational Linguistics: ACL 2025***
   - Keywords: Perspective Transition, Subjective Tasks, Multi-Agent
-
-- [HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:roLk4NBRz8UC)
-  - Baocai Shan, **Yuzhuang Xu**, Wanxiang Che
-  - ***ArXiv Preprint***
-  - Keywords: Input Method, LLM, Personalization
 
 - [Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:W7OEmFMy1HYC)
   - Yixuan Wang, Yijun Liu, **Yuzhuang Xu**, Yang Xu, Qingfu Zhu, Wanxiang Che
