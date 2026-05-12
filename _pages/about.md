@@ -64,7 +64,7 @@ My current research interests are efficient Large Language Models (LLMs), LLM-ba
 - [Fitting Is Not Enough: Smoothness in Extremely Quantized LLMs](https://arxiv.org/abs/2605.08894)
   - **Yuzhuang Xu**, Xu Han, Yuxuan Li, Pengzhan Li, Wanxiang Che
   - ***ArXiv Preprint***
-  - Keywords: Smoothness, Decoding Tree, Sequence Space Modeling, Gradient Preserving
+  - Keywords: Model Quantization, Smoothness, Decoding Tree, Gradient Preserving
 
 - [A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eUnK3msAAAAJ&citation_for_view=eUnK3msAAAAJ:2osOgNQ5qMEC)
   - Kaiyu Huang, Fengran Mo, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, **Yuzhuang Xu**, Jinan Xu, Jian-Yun Nie, Yang Liu
